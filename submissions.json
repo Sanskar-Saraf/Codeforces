@@ -1402,6 +1402,22 @@
     ],
     "timestamp": "Jul/03/2023 19:22"
   },
+  "CF85471397": {
+    "contest_id": 1,
+    "language": "GNU C++14",
+    "path": "codeforces\\1\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Theatre Square",
+    "problem_url": "https://codeforces.com/contest/1/problem/A",
+    "submission_id": "CF85471397",
+    "submission_url": "https://codeforces.com/contest/1/submission/85471397",
+    "tags": [
+      "math",
+      "*1000"
+    ],
+    "timestamp": "Jun/29/2020 20:51"
+  },
   "CF85471701": {
     "contest_id": 41,
     "language": "GNU C++14",
