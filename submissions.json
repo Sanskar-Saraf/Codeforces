@@ -5469,6 +5469,22 @@
     ],
     "timestamp": "Jul/28/2020 22:38"
   },
+  "CF88885479": {
+    "contest_id": 1294,
+    "language": "GNU C++14",
+    "path": "codeforces\\1294\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Collecting Coins",
+    "problem_url": "https://codeforces.com/contest/1294/problem/A",
+    "submission_id": "CF88885479",
+    "submission_url": "https://codeforces.com/contest/1294/submission/88885479",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "Aug/04/2020 21:11"
+  },
   "CF88886291": {
     "contest_id": 492,
     "language": "GNU C++14",
