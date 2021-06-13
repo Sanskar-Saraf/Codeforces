@@ -1,4 +1,22 @@
 {
+  "CF119369478": {
+    "contest_id": 1534,
+    "language": "GNU C++14",
+    "path": "codeforces\\1534\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Histogram Ugliness",
+    "problem_url": "https://codeforces.com/contest/1534/problem/B",
+    "submission_id": "CF119369478",
+    "submission_url": "https://codeforces.com/contest/1534/submission/119369478",
+    "tags": [
+      "greedy",
+      "implementation",
+      "math",
+      "*1100"
+    ],
+    "timestamp": "Jun/13/2021 22:21"
+  },
   "CF119429591": {
     "contest_id": 1534,
     "language": "GNU C++14",
