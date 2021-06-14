@@ -1,4 +1,21 @@
 {
+  "CF119429591": {
+    "contest_id": 1534,
+    "language": "GNU C++14",
+    "path": "codeforces\\1534\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Colour the Flag",
+    "problem_url": "https://codeforces.com/contest/1534/problem/A",
+    "submission_id": "CF119429591",
+    "submission_url": "https://codeforces.com/contest/1534/submission/119429591",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Jun/14/2021 13:04"
+  },
   "CF119436532": {
     "contest_id": 4,
     "language": "GNU C++17",
