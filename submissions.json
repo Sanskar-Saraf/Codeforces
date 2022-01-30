@@ -1,4 +1,21 @@
 {
+  "CF144592758": {
+    "contest_id": 1632,
+    "language": "GNU C++17",
+    "path": "codeforces\\1632\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Roof Construction",
+    "problem_url": "https://codeforces.com/contest/1632/problem/B",
+    "submission_id": "CF144592758",
+    "submission_url": "https://codeforces.com/contest/1632/submission/144592758",
+    "tags": [
+      "bitmasks",
+      "constructive algorithms",
+      "*1000"
+    ],
+    "timestamp": "Jan/31/2022 00:02"
+  },
   "CF144622474": {
     "contest_id": 1632,
     "language": "GNU C++17",
