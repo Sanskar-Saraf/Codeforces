@@ -1,4 +1,24 @@
 {
+  "CF144622474": {
+    "contest_id": 1632,
+    "language": "GNU C++17",
+    "path": "codeforces\\1632\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Strange Test",
+    "problem_url": "https://codeforces.com/contest/1632/problem/C",
+    "submission_id": "CF144622474",
+    "submission_url": "https://codeforces.com/contest/1632/submission/144622474",
+    "tags": [
+      "binary search",
+      "bitmasks",
+      "brute force",
+      "dp",
+      "math",
+      "*1600"
+    ],
+    "timestamp": "Jan/31/2022 12:28"
+  },
   "CF144625132": {
     "contest_id": 1632,
     "language": "GNU C++17",
