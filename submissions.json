@@ -1,4 +1,20 @@
 {
+  "CF148822301": {
+    "contest_id": 1650,
+    "language": "GNU C++17",
+    "path": "codeforces\\1650\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "DIV + MOD",
+    "problem_url": "https://codeforces.com/contest/1650/problem/B",
+    "submission_id": "CF148822301",
+    "submission_url": "https://codeforces.com/contest/1650/submission/148822301",
+    "tags": [
+      "math",
+      "*900"
+    ],
+    "timestamp": "Mar/08/2022 20:17"
+  },
   "CF148837254": {
     "contest_id": 1650,
     "language": "GNU C++17",
