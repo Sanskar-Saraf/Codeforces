@@ -1,4 +1,22 @@
 {
+  "CF156277974": {
+    "contest_id": 1665,
+    "language": "GNU C++17",
+    "path": "codeforces\\1665\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Array Cloning Technique",
+    "problem_url": "https://codeforces.com/contest/1665/problem/B",
+    "submission_id": "CF156277974",
+    "submission_url": "https://codeforces.com/contest/1665/submission/156277974",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "sortings",
+      "*900"
+    ],
+    "timestamp": "May/08/2022 16:03"
+  },
   "CF156299607": {
     "contest_id": 1678,
     "language": "GNU C++17",
