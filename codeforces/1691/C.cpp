@@ -22,7 +22,7 @@ signed main()
     cin >> t;
     while (t--)
     {
-        int n, k, o = 0, ans = 0, idx = 0;
+        int n, k, ans = 0, idx = 0;
         cin >> n >> k;
         string s;
         cin >> s;
@@ -31,12 +31,13 @@ signed main()
             idx = i;
             if (s[i] == '1')
             {
-                int m = n - 1 - i;
+                int m = (n - 1) - i;
                 if (m <= k)
                 {
                     k -= m;
                     s[i] = '0';
                     s[n - 1] = '1';
+                    ans += 1;
 idx--;
                     break;
                 }
@@ -44,33 +45,26 @@ idx--;
                     break;
             }
         }
-        if (k > 0)
+        for (int i = 0; i <= idx; i++)
         {
-            o = 0;
-            for (int i = 0; i <= idx; i++)
+            if (s[i] == '1')
             {
-                if (s[i] == '1')
+                int m = i;
+                if (m <= k)
                 {
-                    int m = i;
-                    if (m <= k)
-                    {
-                        k -= m;
-                        s[i] = '0';
-                        s[o] = '1';
-                        break;
-                    }
-                    else
-                        break;
+                    k -= m;
+                    s[i] = '0';
+                    s[0] = '1';
+                    ans += 10;
+                    break;
                 }
+                else
+                    break;
             }
         }
-        for (int i = 0; i < n - 1; i++)
+        for (int i = 1; i < n - 1; i++)
         {
-            if (s[i] == '0' && s[i + 1] == '1')
-                ans += 1;
-            else if (s[i] == '1' && s[i + 1] == '0')
-                ans += 10;
-            else if (s[i] == '1' && s[i + 1] == '1')
+            if (s[i] == '1')
                 ans += 11;
         }
         cout << ans << "\n";
