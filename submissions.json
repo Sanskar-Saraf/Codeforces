@@ -1,4 +1,21 @@
 {
+  "CF160086214": {
+    "contest_id": 1,
+    "language": "GNU C++17",
+    "path": "codeforces\\1\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Spreadsheet",
+    "problem_url": "https://codeforces.com/contest/1/problem/B",
+    "submission_id": "CF160086214",
+    "submission_url": "https://codeforces.com/contest/1/submission/160086214",
+    "tags": [
+      "implementation",
+      "math",
+      "*1600"
+    ],
+    "timestamp": "Jun/10/2022 20:23"
+  },
   "CF160177129": {
     "contest_id": 276,
     "language": "GNU C++17",
