@@ -1,4 +1,21 @@
 {
+  "CF160082782": {
+    "contest_id": 2,
+    "language": "GNU C++17",
+    "path": "codeforces\\2\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Winner",
+    "problem_url": "https://codeforces.com/contest/2/problem/A",
+    "submission_id": "CF160082782",
+    "submission_url": "https://codeforces.com/contest/2/submission/160082782",
+    "tags": [
+      "hashing",
+      "implementation",
+      "*1500"
+    ],
+    "timestamp": "Jun/10/2022 19:39"
+  },
   "CF160086214": {
     "contest_id": 1,
     "language": "GNU C++17",
